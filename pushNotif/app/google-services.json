@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "372602496295",
+    "firebase_url": "https://pushnotif-5abf6.firebaseio.com",
+    "project_id": "pushnotif-5abf6",
+    "storage_bucket": "pushnotif-5abf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372602496295:android:d520f39d1111c94e",
+        "android_client_info": {
+          "package_name": "i.sigit.pushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372602496295-6h11nev1l8ncoogjbbhq6jp6qrf8untu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "i.sigit.pushnotif",
+            "certificate_hash": "9bc894cb37d8b1a0d3016b1e5a72ade44f38bb76"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLcjj9HRs5ANimJQCTw6DFPfNVEDqRikw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372602496295-vs521rs0s50btagd28236mbu341haonb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
